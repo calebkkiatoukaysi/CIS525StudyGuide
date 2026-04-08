@@ -406,11 +406,11 @@ Every parent has a key ≥ its children's keys. The maximum key is always at the
 ```
           77
          /  \
-       30    45
+       42    48
       /  \  /  \
-    42   21 48  24
+    38   21 45  24
    /  \
-  38   13
+  30   13
 ```
 
 ---
